@@ -7,6 +7,8 @@ A collection of custom GPTs design and developed by [Max Miner](https://mxmnr.co
 4. [Startup Exec Summary Writer](https://chat.openai.com/g/g-WQaGIIdE3-startup-executive-summary-writer)
 5. [Email Marketing Guru](https://chat.openai.com/g/g-53kVeX87N-email-marketing-guru)
 
+---
+
 ### Other Favorites:
 
 1. [Grimoire](https://chat.openai.com/g/g-n7Rs0IK86-grimoire)
