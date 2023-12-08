@@ -9,7 +9,7 @@ A collection of custom GPTs design and developed by [Max Miner](https://mxmnr.co
 
 ---
 
-### Other Favorites:
+### By Others:
 
 1. [Grimoire](https://chat.openai.com/g/g-n7Rs0IK86-grimoire)
 2. [Flowbite](https://chat.openai.com/g/g-y7yC35HB9-flowbite-gpt)
